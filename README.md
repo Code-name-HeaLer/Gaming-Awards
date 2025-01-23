@@ -1,5 +1,9 @@
 # Gaming Website Showcase 🚀
 
+## Inspiration
+
+This project is soley inspired by [Zentry](https://zentry.com/).
+
 ## My Journey
 
 This project represents my passion for creating immersive web experiences that blend cutting-edge design with smooth, engaging animations. As a developer who loves gaming, I wanted to craft a landing page that captures the excitement and energy of the gaming world.
@@ -27,6 +31,6 @@ This project represents my passion for creating immersive web experiences that b
 
 ## Want to Connect?
 
-📫 **Reach Out**: [Your Email/LinkedIn/Portfolio Link]
+📫 **Reach Out**: [My Portfolio](https://swagat-prasad-nanda.netlify.app/)
 
 **Feel free to explore, fork, and learn from this project!**
